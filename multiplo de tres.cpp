@@ -12,9 +12,9 @@ int main() {
     for (int i = 0; i < 10; i++) {
         for (int j = 0; j < 10; j++) {
             if (numeros[i][j] % 3 == 0) {
-                printf("%d es múltiplo de 3\n", numeros[i][j]);
+                printf("%d es multiplo de 3\n", numeros[i][j]);
             } else {
-                printf("%d no es múltiplo de 3\n", numeros[i][j]);
+                printf("%d no es multiplo de 3\n", numeros[i][j]);
             }
         }
     }
